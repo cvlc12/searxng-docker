@@ -66,7 +66,7 @@ To access the logs of one specific container:
 
 - Caddy: `docker compose logs -f caddy`
 - SearXNG: `docker compose logs -f searxng`
-- Valkey: `docker compose logs -f redis`
+- Valkey: `docker compose logs -f valkey`
 
 ### Start SearXNG with systemd
 
